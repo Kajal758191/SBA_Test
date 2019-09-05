@@ -1,0 +1,27 @@
+
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.search{
+    padding-top:10px;
+}
+.shift{
+    float:right;
+}
+
+.paduserreg{
+    padding-left:450px;
+}
+
+.leftF{
+    float: left;
+}
+.rightF{
+    float: right;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
